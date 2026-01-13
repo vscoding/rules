@@ -45,12 +45,15 @@ tmp_blacklist=$(mktemp)
 jq \
   --argjson devops "$DEVOPS_DOMAINS_JSON" \
   --argjson speedup "$SPEEDUP_DOMAINS_JSON" \
+  --argjson direct_custom "$DIRECT_CUSTOM_DOMAINS_JSON" \
   '
         map(
             if .remarks == "Proxy|DevOps" then
                 .domain = ((.domain // []) + $devops | unique)
             elif .remarks == "Proxy|SpeedUP" then
                 .domain = ((.domain // []) + $speedup | unique)
+            elif .remarks == "Direct|Custom" then
+                .domain = ((.domain // []) + $direct_custom | unique)
             else
                 .
             end

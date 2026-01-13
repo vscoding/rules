@@ -80,6 +80,29 @@
   {
     "port": "",
     "outboundTag": "direct",
+    "domain": [
+      "domain:alidns.com,",
+      "domain:aliyuncs.com,",
+      "domain:bwh81.net",
+      "domain:eblssmart.com,",
+      "domain:intellij.io",
+      "domain:intellij.tech",
+      "domain:ipcrystal.com",
+      "domain:ipdns.org",
+      "domain:iplib.com",
+      "domain:iproute.org",
+      "domain:kubectl.net",
+      "domain:kubectl.org",
+      "domain:nginx.co",
+      "domain:qiaobutang.com,",
+      "domain:steamcontent.com,"
+    ],
+    "enabled": true,
+    "remarks": "Direct|Custom"
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
     "ip": [
       "geoip:private"
     ],

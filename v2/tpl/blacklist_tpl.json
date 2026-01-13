@@ -41,17 +41,16 @@
     {
         "port": "",
         "outboundTag": "proxy",
-        "domain": [
-            "domain:linux.do",
-            "domain:store.steampowered.com",
-            "domain:x.com",
-            "domain:twimg.com",
-            "domain:wjjsoft.com",
-            "domain:dmit.io",
-            "domain:vultr.com"
-        ],
+        "domain": [],
         "enabled": true,
         "remarks": "Proxy|SpeedUP"
+    },
+    {
+        "port": "",
+        "outboundTag": "direct",
+        "domain": [],
+        "enabled": true,
+        "remarks": "Direct|Custom"
     },
     {
         "port": "",
