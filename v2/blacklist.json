@@ -176,7 +176,7 @@
             "domain:yandex.net"
         ],
         "enabled": true,
-        "remarks": "[Proxy] Global DOH"
+        "remarks": "Proxy|Global DOH"
     },
     {
         "outboundTag": "proxy",
