@@ -34,33 +34,9 @@
     {
         "port": "",
         "outboundTag": "proxy",
-        "domain": [
-            "domain:chatgpt.com",
-            "domain:docker.com",
-            "domain:dockerstatic.com",
-            "domain:jetbrains.ai",
-            "domain:postman.com",
-            "domain:postman.co",
-            "domain:getpostman.com",
-            "domain:pstmn.io",
-            "domain:github.com",
-            "domain:github.io",
-            "domain:githubusercontent.com",
-            "domain:githubcopilot.com",
-            "domain:gitlab.com",
-            "domain:cloudflare.com",
-            "domain:anthropic.com",
-            "domain:claude.ai",
-            "domain:claude.com",
-            "domain:claudeusercontent.com",
-            "domain:claudemcpclient.com",
-            "domain:cursor.com",
-            "domain:gofrp.org",
-            "domain:stripe.com",
-            "domain:rocket.chat"
-        ],
+        "domain": [],
         "enabled": true,
-        "remarks": "Proxy|Devops"
+        "remarks": "Proxy|DevOps"
     },
     {
         "port": "",
@@ -84,7 +60,7 @@
             "geoip:private"
         ],
         "enabled": true,
-        "remarks": "Direct|Reverse IP"
+        "remarks": "Direct|Private IP"
     },
     {
         "outboundTag": "direct",
@@ -92,7 +68,7 @@
             "geosite:private"
         ],
         "enabled": true,
-        "remarks": "Direct|Internal Site"
+        "remarks": "Direct|Private Domain"
     },
     {
         "port": "",

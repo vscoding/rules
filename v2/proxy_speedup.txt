@@ -1,0 +1,7 @@
+domain:linux.do
+domain:store.steampowered.com
+domain:x.com
+domain:twimg.com
+domain:wjjsoft.com
+domain:dmit.io
+domain:vultr.com

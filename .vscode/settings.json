@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "*.conf": "nginx",
+    "*.sh": "shellscript", // 确保 .sh 文件识别为 shellscript
+    "*.bash": "shellscript",
+    "*.zsh": "shellscript",
+    "*.yml": "yaml",
+    "*.toml": "toml"
+  },
+  "[shellscript]": {
+    "editor.tabSize": 2, // 缩进 2 空格
+    "editor.insertSpaces": true // 用空格而不是 Tab
+  },
+  "[nginx]": {
+    "editor.formatOnSave": false
+  },
+  "[conf]": {
+    "editor.formatOnSave": false
+  },
+  "shellcheck.exclude": [
+    "1017"
+  ],
+  "stylua.targetReleaseVersion": "latest"
+}
