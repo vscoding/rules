@@ -5,7 +5,7 @@
             "bittorrent"
         ],
         "enabled": true,
-        "remarks": "[Direct] bittorrent"
+        "remarks": "Direct|bittorrent"
     },
     {
         "outboundTag": "proxy",
@@ -13,14 +13,14 @@
             "api.ip.sb"
         ],
         "enabled": true,
-        "remarks": "[Proxy] api.ip.sb"
+        "remarks": "Proxy|api.ip.sb"
     },
     {
         "port": "443",
         "network": "udp",
         "outboundTag": "block",
         "enabled": true,
-        "remarks": "[Block] udp443"
+        "remarks": "Block|udp443"
     },
     {
         "port": "",
@@ -29,7 +29,7 @@
             "geosite:google"
         ],
         "enabled": true,
-        "remarks": "[Proxy] Google"
+        "remarks": "Proxy|Google"
     },
     {
         "port": "",
@@ -60,7 +60,7 @@
             "domain:rocket.chat"
         ],
         "enabled": true,
-        "remarks": "[Proxy] Devops"
+        "remarks": "Proxy|Devops"
     },
     {
         "port": "",
@@ -75,7 +75,7 @@
             "domain:vultr.com"
         ],
         "enabled": true,
-        "remarks": "[Proxy] SpeedUP"
+        "remarks": "Proxy|SpeedUP"
     },
     {
         "port": "",
@@ -84,7 +84,7 @@
             "geoip:private"
         ],
         "enabled": true,
-        "remarks": "[Direct] Reverse IP"
+        "remarks": "Direct|Reverse IP"
     },
     {
         "outboundTag": "direct",
@@ -92,7 +92,7 @@
             "geosite:private"
         ],
         "enabled": true,
-        "remarks": "[Direct] Internal Site"
+        "remarks": "Direct|Internal Site"
     },
     {
         "port": "",
@@ -160,7 +160,7 @@
             "2a02:6b8:0:1::feed:a11"
         ],
         "enabled": true,
-        "remarks": "[Proxy] Gloabl DNSIP"
+        "remarks": "Proxy|Global DNSIP"
     },
     {
         "port": "",
@@ -189,7 +189,7 @@
             "geoip:twitter"
         ],
         "enabled": true,
-        "remarks": "[Proxy] GeoIP More"
+        "remarks": "Proxy|GeoIP More"
     },
     {
         "port": "",
@@ -199,12 +199,12 @@
             "geosite:greatfire"
         ],
         "enabled": true,
-        "remarks": "[Proxy] GFW"
+        "remarks": "Proxy|GFW"
     },
     {
         "port": "0-65535",
         "outboundTag": "direct",
         "enabled": true,
-        "remarks": "[Direct] Finally"
+        "remarks": "Direct|Finally"
     }
 ]
