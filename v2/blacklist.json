@@ -118,7 +118,7 @@
       "geoip:private"
     ],
     "enabled": true,
-    "remarks": "Direct|Private IP"
+    "remarks": "Direct|PrivateIP"
   },
   {
     "outboundTag": "direct",
@@ -126,7 +126,7 @@
       "geosite:private"
     ],
     "enabled": true,
-    "remarks": "Direct|Private Domain"
+    "remarks": "Direct|PrivateDomain"
   },
   {
     "port": "",
