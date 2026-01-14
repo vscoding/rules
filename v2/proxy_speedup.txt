@@ -1,7 +1,16 @@
+# talk
 domain:linux.do
+# game
 domain:store.steampowered.com
+# x
 domain:x.com
 domain:twimg.com
+# mybase
 domain:wjjsoft.com
+# vps
 domain:dmit.io
 domain:vultr.com
+# tools
+domain:gofrp.org
+domain:stripe.com
+domain:rocket.chat

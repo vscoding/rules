@@ -1,23 +1,40 @@
+### 
+
+# ai
 domain:chatgpt.com
+domain:anthropic.com
+domain:cursor.com
+# claude code
+domain:claude.ai
+domain:claude.com
+domain:claudeusercontent.com
+domain:claudemcpclient.com
+# docker
 domain:docker.com
 domain:dockerstatic.com
+# jetbrains
 domain:jetbrains.ai
+domain:intellij.com
+domain:intellij.net
+domain:intellij.org
+domain:jetbrains.com
+domain:jetbrains.net
+domain:jetbrains.space
+domain:jetbrains.team
+domain:datalore.io
+domain:kotlinlang.org
+domain:jb.gg
+domain:youtrack.cloud
+# postman
 domain:postman.com
 domain:postman.co
 domain:getpostman.com
 domain:pstmn.io
+# github
 domain:github.com
 domain:github.io
 domain:githubusercontent.com
 domain:githubcopilot.com
 domain:gitlab.com
+# cloudflare
 domain:cloudflare.com
-domain:anthropic.com
-domain:claude.ai
-domain:claude.com
-domain:claudeusercontent.com
-domain:claudemcpclient.com
-domain:cursor.com
-domain:gofrp.org
-domain:stripe.com
-domain:rocket.chat

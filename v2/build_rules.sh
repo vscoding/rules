@@ -24,8 +24,16 @@ build_domains_json() {
   local txt_file="$1"
   [ ! -f "$txt_file" ] && echo "[]" && return 0
 
-  # 读取非空行，生成 JSON 数组
-  jq -Rn '[inputs | select(length > 0)]' <"$txt_file"
+  # 读取非空行，去除首尾空白，并过滤掉以 # 或 // 开头的行，生成 JSON 数组
+  jq -Rn '[
+        inputs
+        | gsub("^\\s+|\\s+$"; "")        # trim
+        | select(
+                length > 0                        # 非空
+                and (test("^#") | not)          # 不以 # 开头
+                and (test("^//") | not)         # 不以 // 开头
+            )
+    ]' <"$txt_file"
 }
 
 log_info "proxy" "update DevOps domains from $DEVOPS_TXT"
