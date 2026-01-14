@@ -75,6 +75,7 @@
     "outboundTag": "proxy",
     "domain": [
       "domain:dmit.io",
+      "domain:fast.com",
       "domain:gofrp.org",
       "domain:linux.do",
       "domain:rocket.chat",
