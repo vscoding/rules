@@ -5,7 +5,7 @@ export ROOT_URI=https://dev.kubectl.org
 
 source <(curl -sSL $ROOT_URI/func/log.sh)
 
-export HTTP_PROXY=$(cat http_proxy.txt)
+export HTTP_PROXY=${HTTP_PROXY:-"http://127.0.0.1:10808"}
 
 log_warn "prepare" "准备工作，清理临时目录 tmp"
 rm -rf tmp

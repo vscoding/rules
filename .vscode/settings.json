@@ -20,5 +20,15 @@
   "shellcheck.exclude": [
     "1017"
   ],
-  "stylua.targetReleaseVersion": "latest"
+  "stylua.targetReleaseVersion": "latest",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "python": "python -u",
+    "javascript": "node",
+    "typescript": "npx ts-node",
+    "go": "go run",
+    "shellscript": "bash",
+  }
 }
