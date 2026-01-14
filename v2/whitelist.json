@@ -141,7 +141,7 @@
       "52.80.60.30"
     ],
     "enabled": true,
-    "remarks": "Direct|China DNSIP"
+    "remarks": "Direct|ChinaDnsIp"
   },
   {
     "port": "",
@@ -154,7 +154,7 @@
       "domain:onedns.net"
     ],
     "enabled": true,
-    "remarks": "Direct|China DOH"
+    "remarks": "Direct|ChinaDoH"
   },
   {
     "outboundTag": "direct",
@@ -162,7 +162,7 @@
       "geoip:cn"
     ],
     "enabled": true,
-    "remarks": "Direct|GeoIP CN"
+    "remarks": "Direct|GeoIpCN"
   },
   {
     "port": "",
@@ -171,6 +171,6 @@
       "geosite:cn"
     ],
     "enabled": true,
-    "remarks": "Direct|GeoSite CN"
+    "remarks": "Direct|GeoSiteCN"
   }
 ]

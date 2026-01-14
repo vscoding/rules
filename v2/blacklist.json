@@ -183,7 +183,7 @@
       "2a02:6b8:0:1::feed:a11"
     ],
     "enabled": true,
-    "remarks": "Proxy|Global DNSIP"
+    "remarks": "Proxy|GlobalDnsIp"
   },
   {
     "port": "",
@@ -199,20 +199,7 @@
       "domain:yandex.net"
     ],
     "enabled": true,
-    "remarks": "Proxy|Global DOH"
-  },
-  {
-    "outboundTag": "proxy",
-    "ip": [
-      "geoip:facebook",
-      "geoip:fastly",
-      "geoip:google",
-      "geoip:netflix",
-      "geoip:telegram",
-      "geoip:twitter"
-    ],
-    "enabled": true,
-    "remarks": "Proxy|GeoIP More"
+    "remarks": "Proxy|GlobalDoH"
   },
   {
     "port": "",
