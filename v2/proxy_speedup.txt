@@ -16,3 +16,5 @@ domain:stripe.com
 domain:rocket.chat
 # netflix
 domain:fast.com
+# sing-box
+domain:sagernet.org
