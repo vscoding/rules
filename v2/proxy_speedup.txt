@@ -18,3 +18,10 @@ domain:rocket.chat
 domain:fast.com
 # sing-box
 domain:sagernet.org
+# notion
+domain:notion-static.com
+domain:notion.com
+domain:notion.new
+domain:notion.site
+domain:notion.so
+domain:notionusercontent.com
