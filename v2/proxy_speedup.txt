@@ -25,3 +25,6 @@ domain:notion.new
 domain:notion.site
 domain:notion.so
 domain:notionusercontent.com
+# fencens
+stardock.com
+cachefly.net

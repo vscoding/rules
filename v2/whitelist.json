@@ -49,6 +49,7 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "cachefly.net",
       "domain:dmit.io",
       "domain:fast.com",
       "domain:gofrp.org",
@@ -66,7 +67,8 @@
       "domain:twimg.com",
       "domain:vultr.com",
       "domain:wjjsoft.com",
-      "domain:x.com"
+      "domain:x.com",
+      "stardock.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"
