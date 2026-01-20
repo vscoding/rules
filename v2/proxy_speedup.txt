@@ -28,3 +28,20 @@ domain:notionusercontent.com
 # fencens
 stardock.com
 cachefly.net
+# onedrive
+domain:onedrive
+domain:onedriveupdater
+domain:sharepointonline.com
+domain:microsoftpersonalcontent.com
+domain:onedrive.com
+domain:sharepoint.cn
+domain:livefilestore.com
+domain:sharepoint.com
+domain:1drv.com
+domain:storage.msn.com
+domain:spoprod-a.akamaihd.net
+domain:storage.live.com
+domain:oneclient.sfx.ms
+domain:photos.live.com
+domain:onedrive.live.com
+domain:skydrive.wns.windows.com
