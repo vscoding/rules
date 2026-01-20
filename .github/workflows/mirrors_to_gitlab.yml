@@ -14,42 +14,12 @@ jobs:
     env:
       GITLAB_SSH_PRIVATE_KEY: ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}
       GITLAB_SSH_REMOTE: ${{ vars.GITLAB_SSH_REMOTE }}   # e.g. git@gitlab.com:group/repo.git
-      GITLAB_SSH_HOST: ${{ vars.GITLAB_SSH_HOST }}
-      GITLAB_SSH_PORT: ${{ vars.GITLAB_SSH_PORT }}
 
     steps:
-      - name: Checkout repository (full history)
-        uses: actions/checkout@v4
+      - name: Mirror to GitLab
+        uses: vscoding/gitlab-mirror-action@v1
         with:
-          fetch-depth: 0
-
-      - name: Push main branch to GitLab
-        shell: bash
-        run: |
-          set -Eeuo pipefail
-
-          if [[ -z "${GITLAB_SSH_PRIVATE_KEY:-}" || -z "${GITLAB_SSH_REMOTE:-}" ]]; then
-            echo "Missing SSH configuration: GITLAB_SSH_PRIVATE_KEY or GITLAB_SSH_REMOTE"
-            exit 1
-          fi
-
-          # 强制校验：仅允许 GitLab SSH remote
-          if [[ ! "${GITLAB_SSH_REMOTE}" =~ ^git@gitlab\.com: ]]; then
-            echo "Invalid GITLAB_SSH_REMOTE: must start with 'git@gitlab.com:'"
-            exit 1
-          fi
-
-          mkdir -p ~/.ssh && chmod 700 ~/.ssh
-          echo "$GITLAB_SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-
-          host="${GITLAB_SSH_HOST:-gitlab.com}"
-          port="${GITLAB_SSH_PORT:-22}"
-          ssh-keyscan -p "$port" "$host" >> ~/.ssh/known_hosts
-          chmod 644 ~/.ssh/known_hosts
-
-          git remote remove gitlab 2>/dev/null || true
-          git remote add gitlab "$GITLAB_SSH_REMOTE"
-
-          # 仅镜像 main 分支
-          git push gitlab main:main
+          gitlab-ssh-private-key: ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}
+          gitlab-ssh-remote: ${{ vars.GITLAB_SSH_REMOTE }}
+          source-branch: main
+          target-branch: main
