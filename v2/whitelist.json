@@ -49,8 +49,8 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "cachefly.net",
       "domain:1drv.com",
+      "domain:cachefly.net",
       "domain:dmit.io",
       "domain:fast.com",
       "domain:gofrp.org",
@@ -76,6 +76,7 @@
       "domain:sharepointonline.com",
       "domain:skydrive.wns.windows.com",
       "domain:spoprod-a.akamaihd.net",
+      "domain:stardock.com",
       "domain:storage.live.com",
       "domain:storage.msn.com",
       "domain:store.steampowered.com",
@@ -83,8 +84,7 @@
       "domain:twimg.com",
       "domain:vultr.com",
       "domain:wjjsoft.com",
-      "domain:x.com",
-      "stardock.com"
+      "domain:x.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"

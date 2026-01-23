@@ -26,8 +26,8 @@ domain:notion.site
 domain:notion.so
 domain:notionusercontent.com
 # fencens
-stardock.com
-cachefly.net
+domain:stardock.com
+domain:cachefly.net
 # onedrive
 domain:onedrive
 domain:onedriveupdater
