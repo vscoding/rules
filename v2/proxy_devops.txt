@@ -43,5 +43,5 @@ domain:upstash.com
 # intercom
 domain:intercom.io
 domain:intercom.com
-domain:intercom.net
+domain:intercomassets.com
 domain:intercomcdn.com
