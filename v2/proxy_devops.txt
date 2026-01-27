@@ -38,3 +38,10 @@ domain:githubcopilot.com
 domain:gitlab.com
 # cloudflare
 domain:cloudflare.com
+# upstash
+domain:upstash.com
+# intercom
+domain:intercom.io
+domain:intercom.com
+domain:intercom.net
+domain:intercomcdn.com
