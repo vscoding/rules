@@ -47,3 +47,5 @@ domain:intercomassets.com
 domain:intercomcdn.com
 # superbase
 domain:superbase.com
+# luarocks
+domain:luarocks.org
