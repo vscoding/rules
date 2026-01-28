@@ -10,7 +10,9 @@ domain:claude.com
 domain:claudeusercontent.com
 domain:claudemcpclient.com
 # docker
+domain:compose-spec.io
 domain:docker.com
+domain:docker.io
 domain:dockerstatic.com
 # jetbrains
 domain:jetbrains.ai
