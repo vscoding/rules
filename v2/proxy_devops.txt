@@ -49,3 +49,7 @@ domain:intercomcdn.com
 domain:superbase.com
 # luarocks
 domain:luarocks.org
+# launchdarkly
+domain:launchdarkly.com
+domain:prismic.io
+domain:claydar.com
