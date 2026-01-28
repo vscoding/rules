@@ -45,3 +45,5 @@ domain:intercom.io
 domain:intercom.com
 domain:intercomassets.com
 domain:intercomcdn.com
+# superbase
+domain:superbase.com
