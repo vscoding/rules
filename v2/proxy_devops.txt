@@ -1,19 +1,50 @@
 ### 
 
+#strip
+stripe.com
+
 # ai
+domain:ai.com
+domain:algolia.net
+domain:api.statsig.com
+domain:auth0.com
 domain:chatgpt.com
+domain:chatgpt.livekit.cloud
+domain:client-api.arkoselabs.com
+domain:events.statsigapi.net
+domain:featuregates.org
+domain:host.livekit.cloud
+domain:identrust.com
+domain:intercom.io
+domain:intercomcdn.com
+domain:launchdarkly.com
+domain:oaistatic.com
+domain:oaiusercontent.com
+domain:observeit.net
+domain:openai.com
+domain:openaiapi-site.azureedge.net
+domain:openaicom.imgix.net
+domain:segment.io
+domain:sentry.io
+domain:stripe.com
+domain:turn.livekit.cloud
+
+# other ai
 domain:anthropic.com
 domain:cursor.com
+
 # claude code
 domain:claude.ai
 domain:claude.com
 domain:claudeusercontent.com
 domain:claudemcpclient.com
+
 # docker
 domain:compose-spec.io
 domain:docker.com
 domain:docker.io
 domain:dockerstatic.com
+
 # jetbrains
 domain:jetbrains.ai
 domain:intellij.com
@@ -27,11 +58,13 @@ domain:datalore.io
 domain:kotlinlang.org
 domain:jb.gg
 domain:youtrack.cloud
+
 # postman
 domain:postman.com
 domain:postman.co
 domain:getpostman.com
 domain:pstmn.io
+
 # github
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
@@ -66,24 +99,31 @@ domain:npmjs.com
 domain:blob.core.windows.net
 domain:collector.github.com
 domain:copilot-telemetry.githubusercontent.com
+
 # gitlab
 domain:gitlab.com
 domain:gitlab.io
 domain:gitlab.net
 domain:gitlab-static.net
+
 # cloudflare
 domain:cloudflare.com
+
 # upstash
 domain:upstash.com
+
 # intercom
 domain:intercom.io
 domain:intercom.com
 domain:intercomassets.com
 domain:intercomcdn.com
+
 # superbase
 domain:superbase.com
+
 # luarocks
 domain:luarocks.org
+
 # launchdarkly
 domain:launchdarkly.com
 domain:prismic.io
