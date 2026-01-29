@@ -1,5 +1,5 @@
 #!/bin/bash
-# shellcheck disable=SC2164,SC1090,SC2086
+# shellcheck disable=SC2164,SC1090,SC2086,SC2288,SC2016,SC2215
 SHELL_FOLDER=$(cd "$(dirname "$0")" && pwd) && cd "$SHELL_FOLDER"
 [ -z $ROOT_URI ] && source <(curl -sSL https://dev.kubectl.org/init)
 echo -e "\033[0;32mROOT_URI=$ROOT_URI\033[0m"
@@ -90,7 +90,6 @@ jq \
 
 log_info "proxy" "done"
 
-commit_msg="update rules: $(date '+%Y-%m-%d %H:%M:%S')"
 git add -A
-git commit -m "$commit_msg"
+git commit -m "chore(rules): update"
 git push origin main
