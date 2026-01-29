@@ -33,11 +33,44 @@ domain:postman.co
 domain:getpostman.com
 domain:pstmn.io
 # github
+full:github-api.arkoselabs.com
+full:github-cloud.s3.amazonaws.com
+domain:githubhackathon.com
+domain:git.io
+domain:atom.io
+domain:ghcr.io
+domain:githubnext.com
+domain:github.ai
+domain:github.blog
 domain:github.com
+domain:github.community
+domain:github.dev
 domain:github.io
-domain:githubusercontent.com
+domain:githubpreview.dev
+domain:githubassets.com
 domain:githubcopilot.com
+domain:gh.io
+domain:dependabot.com
+domain:githubapp.com
+domain:githubstatus.com
+domain:githubuniverse.com
+domain:githubusercontent.com
+domain:myoctocat.com
+domain:octocaptcha.com
+domain:opensource.guide
+domain:repo.new
+domain:thegithubshop.com
+domain:npmjs.org
+domain:npm.community
+domain:npmjs.com
+domain:blob.core.windows.net
+domain:collector.github.com
+domain:copilot-telemetry.githubusercontent.com
+# gitlab
 domain:gitlab.com
+domain:gitlab.io
+domain:gitlab.net
+domain:gitlab-static.net
 # cloudflare
 domain:cloudflare.com
 # upstash
