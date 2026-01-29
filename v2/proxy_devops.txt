@@ -1,7 +1,7 @@
 ### 
 
 #strip
-stripe.com
+domain:stripe.com
 
 # ai
 domain:ai.com
