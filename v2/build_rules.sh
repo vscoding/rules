@@ -89,3 +89,8 @@ jq \
     ' "$WHITELIST_TPL_JSON" >"$tmp_whitelist" && mv "$tmp_whitelist" "$WHITELIST_JSON"
 
 log_info "proxy" "done"
+
+commit_msg="update rules: $(date '+%Y-%m-%d %H:%M:%S')"
+git add -A
+git commit -m "$commit_msg"
+git push origin main

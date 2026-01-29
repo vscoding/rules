@@ -20,26 +20,6 @@
         "kind": "build",
         "isDefault": true
       }
-    },
-    {
-      "label": "[Git] Mirror",
-      "type": "shell",
-      "command": "git_mirror.sh",
-      "options": {
-        "cwd": "${workspaceFolder}",
-        "shell": {
-          "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-          "args": [
-            "--login",
-            "-i"
-          ]
-        }
-      },
-      "problemMatcher": [],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      }
     }
   ]
 }

@@ -42,3 +42,17 @@ domain:skydrive.wns.windows.com
 domain:spoprod-a.akamaihd.net
 domain:storage.live.com
 domain:storage.msn.com
+# zoho
+domain:zohomerchandise.com
+domain:zoho.eu
+domain:zoho.in
+domain:zohocdn.com
+domain:zohomeetups.com
+domain:zoho.com
+domain:zohopublic.com
+domain:zohoschools.com
+domain:zohostatic.com
+domain:zohostatic.in
+domain:zohouniversity.com
+domain:zohowebstatic.com
+domain:zoho.com.au
