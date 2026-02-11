@@ -54,6 +54,7 @@ domain:jetbrains.com
 domain:jetbrains.net
 domain:jetbrains.space
 domain:jetbrains.team
+domain:jetbrains.cloud
 domain:datalore.io
 domain:kotlinlang.org
 domain:jb.gg
