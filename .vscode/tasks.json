@@ -6,7 +6,7 @@
       "type": "shell",
       "command": "build_rules.sh",
       "options": {
-        "cwd": "${workspaceFolder}/v2",
+        "cwd": "${workspaceFolder}/xray",
         "shell": {
           "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
           "args": [
