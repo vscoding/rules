@@ -56,3 +56,5 @@ domain:zohostatic.in
 domain:zohouniversity.com
 domain:zohowebstatic.com
 domain:zoho.com.au
+# nextcloud
+nextcloud.com

@@ -184,7 +184,8 @@
       "domain:zohostatic.com",
       "domain:zohostatic.in",
       "domain:zohouniversity.com",
-      "domain:zohowebstatic.com"
+      "domain:zohowebstatic.com",
+      "nextcloud.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"
