@@ -122,6 +122,7 @@
       "domain:linux.do",
       "domain:livefilestore.com",
       "domain:microsoftpersonalcontent.com",
+      "domain:nextcloud.com",
       "domain:notion-static.com",
       "domain:notion.com",
       "domain:notion.new",
@@ -159,8 +160,7 @@
       "domain:zohostatic.com",
       "domain:zohostatic.in",
       "domain:zohouniversity.com",
-      "domain:zohowebstatic.com",
-      "nextcloud.com"
+      "domain:zohowebstatic.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"

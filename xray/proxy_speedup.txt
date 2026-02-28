@@ -57,4 +57,4 @@ domain:zohouniversity.com
 domain:zohowebstatic.com
 domain:zoho.com.au
 # nextcloud
-nextcloud.com
+domain:nextcloud.com
