@@ -58,3 +58,5 @@ domain:zohowebstatic.com
 domain:zoho.com.au
 # nextcloud
 domain:nextcloud.com
+# cd4o.com
+domain:cd4o.com
