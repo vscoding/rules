@@ -60,3 +60,7 @@ domain:zoho.com.au
 domain:nextcloud.com
 # cd4o.com
 domain:cd4o.com
+# notepad++
+domain:notepad-plus-plus.org
+# geekunisntaller
+domain:geekuninstaller.com
