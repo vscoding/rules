@@ -110,6 +110,8 @@ domain:gitlab-static.net
 # cloudflare
 domain:cloudflare.com
 domain:cloudflareinsights.com
+domain:onetrust.com
+domain:cloudflare.dev
 
 # upstash
 domain:upstash.com
