@@ -98,8 +98,6 @@ domain:npmjs.org
 domain:npm.community
 domain:npmjs.com
 domain:blob.core.windows.net
-domain:collector.github.com
-domain:copilot-telemetry.githubusercontent.com
 
 # gitlab
 domain:gitlab.com
