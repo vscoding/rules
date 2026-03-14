@@ -51,6 +51,7 @@
       "domain:claydar.com",
       "domain:client-api.arkoselabs.com",
       "domain:cloudflare.com",
+      "domain:cloudflareinsights.com",
       "domain:collector.github.com",
       "domain:compose-spec.io",
       "domain:copilot-telemetry.githubusercontent.com",
