@@ -132,4 +132,4 @@ domain:prismic.io
 domain:claydar.com
 
 # quay.io
-quay.io
+domain:quay.io

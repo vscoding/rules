@@ -96,6 +96,7 @@
       "domain:postman.com",
       "domain:prismic.io",
       "domain:pstmn.io",
+      "domain:quay.io",
       "domain:repo.new",
       "domain:segment.io",
       "domain:sentry.io",
@@ -106,8 +107,7 @@
       "domain:upstash.com",
       "domain:youtrack.cloud",
       "full:github-api.arkoselabs.com",
-      "full:github-cloud.s3.amazonaws.com",
-      "quay.io"
+      "full:github-cloud.s3.amazonaws.com"
     ],
     "enabled": true,
     "remarks": "Proxy|DevOps"
