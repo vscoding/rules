@@ -131,7 +131,8 @@
       "domain:upstash.com",
       "domain:youtrack.cloud",
       "full:github-api.arkoselabs.com",
-      "full:github-cloud.s3.amazonaws.com"
+      "full:github-cloud.s3.amazonaws.com",
+      "quay.io"
     ],
     "enabled": true,
     "remarks": "Proxy|DevOps"

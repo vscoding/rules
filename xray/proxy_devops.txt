@@ -130,3 +130,6 @@ domain:luarocks.org
 domain:launchdarkly.com
 domain:prismic.io
 domain:claydar.com
+
+# quay.io
+quay.io
