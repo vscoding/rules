@@ -64,3 +64,5 @@ domain:cd4o.com
 domain:notepad-plus-plus.org
 # geekunisntaller
 domain:geekuninstaller.com
+# extendoffice.com
+domain:extendoffice.com
