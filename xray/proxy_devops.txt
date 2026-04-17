@@ -133,3 +133,6 @@ domain:claydar.com
 
 # quay.io
 domain:quay.io
+
+# imagedelivery.net
+domain:imagedelivery.net
