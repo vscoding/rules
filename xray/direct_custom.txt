@@ -1,12 +1,12 @@
 # vps
-domain:alidns.com,
-domain:aliyuncs.com,
+domain:alidns.com
+domain:aliyuncs.com
 domain:bwh81.net
 # other
-domain:eblssmart.com,
-domain:qiaobutang.com,
+domain:eblssmart.com
+domain:qiaobutang.com
 # game
-domain:steamcontent.com,
+domain:steamcontent.com
 # def
 domain:ipcrystal.com
 domain:nginx.co

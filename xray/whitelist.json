@@ -184,10 +184,10 @@
     "port": "",
     "outboundTag": "direct",
     "domain": [
-      "domain:alidns.com,",
-      "domain:aliyuncs.com,",
+      "domain:alidns.com",
+      "domain:aliyuncs.com",
       "domain:bwh81.net",
-      "domain:eblssmart.com,",
+      "domain:eblssmart.com",
       "domain:intellij.io",
       "domain:intellij.tech",
       "domain:ipcrystal.com",
@@ -197,8 +197,8 @@
       "domain:kubectl.net",
       "domain:kubectl.org",
       "domain:nginx.co",
-      "domain:qiaobutang.com,",
-      "domain:steamcontent.com,"
+      "domain:qiaobutang.com",
+      "domain:steamcontent.com"
     ],
     "enabled": true,
     "remarks": "Direct|Custom"
