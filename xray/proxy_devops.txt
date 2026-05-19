@@ -136,3 +136,10 @@ domain:quay.io
 
 # imagedelivery.net
 domain:imagedelivery.net
+
+# atlassian.com
+domain:atlassian.com
+domain:bitbucket.org
+domain:statuspage.io
+domain:trello.com
+domain:trellocdn.com
