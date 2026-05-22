@@ -8,6 +8,13 @@
     },
     {
         "port": "",
+        "outboundTag": "direct",
+        "domain": [],
+        "enabled": true,
+        "remarks": "Direct|Custom"
+    },
+    {
+        "port": "",
         "outboundTag": "proxy",
         "domain": [],
         "enabled": true,
@@ -27,13 +34,6 @@
         ],
         "enabled": true,
         "remarks": "Proxy|Google"
-    },
-    {
-        "port": "",
-        "outboundTag": "direct",
-        "domain": [],
-        "enabled": true,
-        "remarks": "Direct|Custom"
     },
     {
         "outboundTag": "direct",

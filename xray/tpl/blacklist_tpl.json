@@ -33,6 +33,13 @@
     },
     {
         "port": "",
+        "outboundTag": "direct",
+        "domain": [],
+        "enabled": true,
+        "remarks": "Direct|Custom"
+    },
+    {
+        "port": "",
         "outboundTag": "proxy",
         "domain": [],
         "enabled": true,
@@ -44,13 +51,6 @@
         "domain": [],
         "enabled": true,
         "remarks": "Proxy|SpeedUP"
-    },
-    {
-        "port": "",
-        "outboundTag": "direct",
-        "domain": [],
-        "enabled": true,
-        "remarks": "Direct|Custom"
     },
     {
         "port": "",
