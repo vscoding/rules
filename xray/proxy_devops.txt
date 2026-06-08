@@ -123,6 +123,7 @@ domain:cloudflare.com
 domain:cloudflareinsights.com
 domain:onetrust.com
 domain:cloudflare.dev
+# domain:challenges.cloudflare.com
 
 # upstash
 domain:upstash.com

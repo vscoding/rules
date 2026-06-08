@@ -19,4 +19,4 @@ domain:ipdns.org
 domain:kubectl.org
 
 # challenges.cloudflare.com
-domain:challenges.cloudflare.com
+# domain:challenges.cloudflare.com
