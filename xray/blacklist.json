@@ -87,6 +87,7 @@
       "domain:docker.com",
       "domain:docker.io",
       "domain:dockerstatic.com",
+      "domain:dsx-air.nvidia.com",
       "domain:events.statsigapi.net",
       "domain:f5.com",
       "domain:featuregates.org",
