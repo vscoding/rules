@@ -24,7 +24,20 @@
       "domain:kubectl.org",
       "domain:nginx.co",
       "domain:qiaobutang.com",
-      "domain:steamcontent.com"
+      "domain:steamcontent.com",
+      "domain:zoho.com",
+      "domain:zoho.com.au",
+      "domain:zoho.eu",
+      "domain:zoho.in",
+      "domain:zohocdn.com",
+      "domain:zohomeetups.com",
+      "domain:zohomerchandise.com",
+      "domain:zohopublic.com",
+      "domain:zohoschools.com",
+      "domain:zohostatic.com",
+      "domain:zohostatic.in",
+      "domain:zohouniversity.com",
+      "domain:zohowebstatic.com"
     ],
     "enabled": true,
     "remarks": "Direct|Custom"
@@ -193,20 +206,7 @@
       "domain:twimg.com",
       "domain:vultr.com",
       "domain:wjjsoft.com",
-      "domain:x.com",
-      "domain:zoho.com",
-      "domain:zoho.com.au",
-      "domain:zoho.eu",
-      "domain:zoho.in",
-      "domain:zohocdn.com",
-      "domain:zohomeetups.com",
-      "domain:zohomerchandise.com",
-      "domain:zohopublic.com",
-      "domain:zohoschools.com",
-      "domain:zohostatic.com",
-      "domain:zohostatic.in",
-      "domain:zohouniversity.com",
-      "domain:zohowebstatic.com"
+      "domain:x.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"

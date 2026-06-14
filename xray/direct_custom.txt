@@ -20,3 +20,18 @@ domain:kubectl.org
 
 # challenges.cloudflare.com
 # domain:challenges.cloudflare.com
+
+# zoho
+domain:zohomerchandise.com
+domain:zoho.eu
+domain:zoho.in
+domain:zohocdn.com
+domain:zohomeetups.com
+domain:zoho.com
+domain:zohopublic.com
+domain:zohoschools.com
+domain:zohostatic.com
+domain:zohostatic.in
+domain:zohouniversity.com
+domain:zohowebstatic.com
+domain:zoho.com.au
