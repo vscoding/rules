@@ -42,6 +42,7 @@ domain:skydrive.wns.windows.com
 domain:spoprod-a.akamaihd.net
 domain:storage.live.com
 domain:storage.msn.com
+domain:officeapps.live.com
 
 # nextcloud
 domain:nextcloud.com
