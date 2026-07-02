@@ -54,3 +54,6 @@ domain:notepad-plus-plus.org
 domain:geekuninstaller.com
 # extendoffice.com
 domain:extendoffice.com
+
+# freefilesync.org
+domain:freefilesync.org
