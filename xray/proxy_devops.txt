@@ -163,3 +163,6 @@ domain:f5.com
 
 # nvdia
 domain:dsx-air.nvidia.com
+
+# envoyproxy
+domain:envoyproxy.io
