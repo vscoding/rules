@@ -59,4 +59,4 @@ domain:extendoffice.com
 domain:freefilesync.org
 
 # esim
-redteago.com
+domain:redteago.com
