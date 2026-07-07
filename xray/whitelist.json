@@ -209,7 +209,8 @@
       "domain:twimg.com",
       "domain:vultr.com",
       "domain:wjjsoft.com",
-      "domain:x.com"
+      "domain:x.com",
+      "redteago.com"
     ],
     "enabled": true,
     "remarks": "Proxy|SpeedUP"

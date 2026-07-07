@@ -57,3 +57,6 @@ domain:extendoffice.com
 
 # freefilesync.org
 domain:freefilesync.org
+
+# esim
+redteago.com
