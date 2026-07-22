@@ -5,17 +5,21 @@ domain:stripe.com
 
 # openai
 full:openaiapi-site.azureedge.net
+full:openaiassets.blob.core.windows.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
 full:production-openaicom-storage.azureedge.net
-full:o33249.ingest.sentry.io
 full:browser-intake-datadoghq.com
-domain:chat.com
+full:o33249.ingest.sentry.io
+full:openai.qualtrics.com
+domain:oaiusercontent.com
 domain:chatgpt.com
+domain:chatgpt.site
 domain:crixet.com
 domain:oaistatic.com
-domain:oaiusercontent.com
+domain:oaistatsig.com
+domain:chat.com
 domain:openai.com
 domain:sora.com
 domain:chatgpt.livekit.cloud
