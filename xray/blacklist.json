@@ -147,6 +147,7 @@
       "domain:jetbrains.space",
       "domain:jetbrains.team",
       "domain:kotlinlang.org",
+      "domain:kubernetes.io",
       "domain:launchdarkly.com",
       "domain:luarocks.org",
       "domain:myoctocat.com",

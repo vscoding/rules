@@ -170,3 +170,6 @@ domain:dsx-air.nvidia.com
 
 # envoyproxy
 domain:envoyproxy.io
+
+# kubernetes.io
+domain:kubernetes.io
