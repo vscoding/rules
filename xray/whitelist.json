@@ -46,6 +46,7 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "domain:3blue1brown.com",
       "domain:ai.com",
       "domain:algolia.net",
       "domain:anthropic.com",

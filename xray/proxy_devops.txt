@@ -173,3 +173,6 @@ domain:envoyproxy.io
 
 # kubernetes.io
 domain:kubernetes.io
+
+# 3blue1brown.com
+domain:3blue1brown.com
