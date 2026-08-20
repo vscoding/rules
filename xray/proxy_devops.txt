@@ -176,3 +176,7 @@ domain:kubernetes.io
 
 # 3blue1brown.com
 domain:3blue1brown.com
+
+# redhat
+domain:redhat.com
+domain:redhat.org
