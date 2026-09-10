@@ -187,3 +187,6 @@ domain:posthog.com
 domain:crisp.chat
 domain:hoppscotch.io
 domain:hoppscotch.com
+
+# insomnia.rest
+domain:insomnia.rest
