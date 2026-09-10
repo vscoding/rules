@@ -180,3 +180,9 @@ domain:3blue1brown.com
 # redhat
 domain:redhat.com
 domain:redhat.org
+
+# hoppscotch
+domain:sentry.io
+domain:posthog.com
+domain:crisp.chat
+domain:hoppscotch.io
