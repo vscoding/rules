@@ -29,6 +29,6 @@
     "javascript": "node",
     "typescript": "npx ts-node",
     "go": "go run",
-    "shellscript": "bash",
+    "shellscript": "C:/Program Files/Git/bin/bash.exe",
   }
 }
