@@ -190,3 +190,6 @@ domain:hoppscotch.com
 
 # insomnia.rest
 domain:insomnia.rest
+
+# typesafe.ai
+domain:typesafe.ai
