@@ -1,0 +1,5 @@
+domain:sentry.io
+domain:posthog.com
+domain:crisp.chat
+domain:hoppscotch.io
+domain:hoppscotch.com

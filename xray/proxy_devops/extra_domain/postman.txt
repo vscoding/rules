@@ -1,0 +1,4 @@
+domain:postman.com
+domain:postman.co
+domain:getpostman.com
+domain:pstmn.io

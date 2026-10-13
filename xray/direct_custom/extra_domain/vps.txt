@@ -1,0 +1,4 @@
+# vps
+domain:alidns.com
+domain:aliyuncs.com
+domain:bwh81.net

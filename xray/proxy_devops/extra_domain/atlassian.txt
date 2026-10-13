@@ -1,0 +1,5 @@
+domain:atlassian.com
+domain:bitbucket.org
+domain:statuspage.io
+domain:trello.com
+domain:trellocdn.com

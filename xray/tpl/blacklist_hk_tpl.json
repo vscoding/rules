@@ -1,0 +1,47 @@
+[
+    {
+        "outboundTag": "direct",
+        "protocol": [
+            "bittorrent"
+        ],
+        "enabled": true,
+        "remarks": "Direct|bittorrent"
+    },
+    {
+        "port": "443",
+        "network": "udp",
+        "outboundTag": "block",
+        "enabled": true,
+        "remarks": "Block|udp443"
+    },
+    {
+        "port": "",
+        "outboundTag": "proxy",
+        "domain": [],
+        "enabled": true,
+        "remarks": "Proxy|OpenAI"
+    },
+    {
+        "port": "",
+        "outboundTag": "direct",
+        "ip": [
+            "geoip:private"
+        ],
+        "enabled": true,
+        "remarks": "Direct|PrivateIP"
+    },
+    {
+        "outboundTag": "direct",
+        "domain": [
+            "geosite:private"
+        ],
+        "enabled": true,
+        "remarks": "Direct|PrivateDomain"
+    },
+    {
+        "port": "0-65535",
+        "outboundTag": "direct",
+        "enabled": true,
+        "remarks": "Direct|Finally"
+    }
+]

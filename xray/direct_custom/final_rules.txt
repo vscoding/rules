@@ -1,12 +1,6 @@
-# vps
-domain:alidns.com
-domain:aliyuncs.com
-domain:bwh81.net
-# other
+# company
 domain:eblssmart.com
 domain:qiaobutang.com
-# game
-domain:steamcontent.com
 # def
 domain:ipcrystal.com
 domain:nginx.co
@@ -17,11 +11,12 @@ domain:intellij.tech
 domain:iproute.org
 domain:ipdns.org
 domain:kubectl.org
-
-# challenges.cloudflare.com
-# domain:challenges.cloudflare.com
-
-# zoho
+# game
+domain:steamcontent.com
+# vps
+domain:alidns.com
+domain:aliyuncs.com
+domain:bwh81.net
 domain:zohomerchandise.com
 domain:zoho.eu
 domain:zoho.in

@@ -1,0 +1,10 @@
+# def
+domain:ipcrystal.com
+domain:nginx.co
+domain:kubectl.net
+domain:iplib.com
+domain:intellij.io
+domain:intellij.tech
+domain:iproute.org
+domain:ipdns.org
+domain:kubectl.org
