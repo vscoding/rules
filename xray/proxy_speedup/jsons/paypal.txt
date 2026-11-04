@@ -135,7 +135,6 @@ domain:paypal.jp
 domain:paypal.me
 domain:paypal.so
 domain:paypal.us
-domain:paypalbeacon.com
 domain:paypalbenefits.com
 domain:paypalbrasil.com
 domain:paypalcommunity.com
@@ -237,6 +236,7 @@ domain:beibao.com.cn
 domain:paypal.com.cn
 domain:paypal.net.cn
 domain:paypal.org.cn
+domain:paypalbeacon.com
 domain:paypalcommunity.cn
 domain:paypalhere.cn
 domain:paypalhere.com.cn

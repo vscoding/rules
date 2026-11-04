@@ -22,7 +22,6 @@ domain:cloudflarebrowser.com
 domain:cloudflarechallenge.com
 domain:cloudflareclient.com
 domain:cloudflarecp.com
-domain:cloudflareinsights.com
 domain:cloudflareok.com
 domain:cloudflarepartners.com
 domain:cloudflareportal.com
@@ -55,6 +54,7 @@ domain:workers.dev
 domain:cf-ipfs.com
 domain:cloudflare-ipfs.com
 domain:one.one.one
+domain:cloudflareinsights.com
 domain:cf-china.info
 domain:cf-ns.com
 domain:cf-ns.net
