@@ -1,3 +1,4 @@
 # fbox
 domain:flexem.com
+domain:flexem.net
 domain:fbox360.com

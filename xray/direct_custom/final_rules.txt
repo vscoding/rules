@@ -3,6 +3,7 @@ domain:eblssmart.com
 domain:qiaobutang.com
 # fbox
 domain:flexem.com
+domain:flexem.net
 domain:fbox360.com
 # def
 domain:ipcrystal.com
