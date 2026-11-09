@@ -1,3 +1,6 @@
+full:servd-anthropic-website.b-cdn.net
+full:http-intake.logs.us5.datadoghq.com
+full:o1158394.ingest.us.sentry.io
 domain:ant.dev
 domain:anthropic.com
 domain:anthropic.team

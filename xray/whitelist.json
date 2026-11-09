@@ -14,6 +14,8 @@
       "domain:aliyuncs.com",
       "domain:bwh81.net",
       "domain:eblssmart.com",
+      "domain:fbox360.com",
+      "domain:flexem.com",
       "domain:intellij.io",
       "domain:intellij.tech",
       "domain:ipcrystal.com",
@@ -291,6 +293,8 @@
       "full:github-production-repository-image-32fea6.s3.amazonaws.com",
       "full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
       "full:github-production-user-asset-6210df.s3.amazonaws.com",
+      "full:http-intake.logs.us5.datadoghq.com",
+      "full:o1158394.ingest.us.sentry.io",
       "full:o33249.ingest.sentry.io",
       "full:o33249.ingest.us.sentry.io",
       "full:openai.qualtrics.com",
@@ -299,6 +303,7 @@
       "full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
       "full:openaicom.imgix.net",
       "full:openaicomproductionae4b.blob.core.windows.net",
+      "full:production-copilot-host-westus.webpubsub.azure.com",
       "full:production-openaicom-storage.azureedge.net",
       "full:productionresultssa0.blob.core.windows.net",
       "full:productionresultssa1.blob.core.windows.net",
@@ -319,7 +324,8 @@
       "full:productionresultssa6.blob.core.windows.net",
       "full:productionresultssa7.blob.core.windows.net",
       "full:productionresultssa8.blob.core.windows.net",
-      "full:productionresultssa9.blob.core.windows.net"
+      "full:productionresultssa9.blob.core.windows.net",
+      "full:servd-anthropic-website.b-cdn.net"
     ],
     "enabled": true,
     "remarks": "Proxy|DevOps"

@@ -44,6 +44,9 @@ domain:redhat.org
 domain:superbase.com
 domain:typesafe.ai
 domain:upstash.com
+full:servd-anthropic-website.b-cdn.net
+full:http-intake.logs.us5.datadoghq.com
+full:o1158394.ingest.us.sentry.io
 domain:ant.dev
 domain:anthropic.com
 domain:anthropic.team
@@ -177,6 +180,7 @@ full:productionresultssa18.blob.core.windows.net
 full:productionresultssa19.blob.core.windows.net
 full:copilot-proxy.githubusercontent.com
 full:copilot-workspace.githubnext.com
+full:production-copilot-host-westus.webpubsub.azure.com
 full:copilotprodattachments.blob.core.windows.net
 full:copilot-telemetry-service.githubusercontent.com
 full:copilot-telemetry.githubusercontent.com
